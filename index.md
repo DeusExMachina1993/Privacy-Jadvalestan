@@ -1,15 +1,26 @@
-## Welcome to GitHub Pages
+## Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/DeusExMachina1993/Privacy-Jadvalestan/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+SinSinStudio built the جدولستان app as a Free app. This SERVICE is provided by SinSinStudio at no cost and is intended for use as is.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
-### Markdown
+If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at جدولستان unless otherwise defined in this Privacy Policy.
 
-```markdown
-Syntax highlighted code block
+# Information Collection and Use
+
+For a better experience, while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to location. The information that we request will be retained by us and used as described in this privacy policy.
+
+The app does use third party services that may collect information used to identify you.
+
+Link to privacy policy of third party service providers used by the app
+
+Google Play Services
+AdMob
+Firebase Analytics
+Fabric
+Crashlytics
 
 # Header 1
 ## Header 2
